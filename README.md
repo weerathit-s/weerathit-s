@@ -29,7 +29,7 @@
 &nbsp;
 <a><img src="https://img.icons8.com/color/344/tableau-software.png" width="44x" /></a>
 
-#### Interests:
+#### Interest:
 - ![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)
 #
 
