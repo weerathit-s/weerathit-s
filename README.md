@@ -26,8 +26,8 @@
 <a><img align="bottom" src="https://user-images.githubusercontent.com/114859528/199840376-d354e71f-d40b-4aca-bc4c-2cc67909586e.png" width="48px" /></a>
 - ![My Skills](https://skillicons.dev/icons?i=html,css)
 
-<!-- #### Version Control:
-- ![My Skills](https://skillicons.dev/icons?i=git) -->
+#### Version Control:
+- ![My Skills](https://skillicons.dev/icons?i=git)
 
 #### Interests:
 - ![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)
@@ -44,11 +44,11 @@
 #
 
 <div style="display: flex; flex-direction: row;">
-  <img class="img" src="https://streak-stats.demolab.com/?user=weerathit-s&ring=FFA500&theme=jolly" width="425px" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=weerathit-s&title_color=FFA500&show_icons=true&theme=jolly" width="425px" />
+  <img class="img" src="https://streak-stats.demolab.com/?user=weerathit-s&ring=FFA500&theme=jolly" width="400px" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=weerathit-s&title_color=FFA500&show_icons=true&theme=jolly" width="400px" />
 </div>
 
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weerathit-s&theme=jolly&layout=compact" width="425px" />
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weerathit-s&theme=jolly&layout=compact" width="400px" />
 
 
 <!---
