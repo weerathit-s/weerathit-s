@@ -36,6 +36,8 @@
 ### 👇 Visit Me
 <a href="https://www.linkedin.com/in/weerathit-s/" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="49px" /></a>
 &nbsp;
+<a href="https://app.datacamp.com/profile/weerathits" ><img align="top" src="https://www.svgrepo.com/show/349332/datacamp.svg" width="49px" /></a>
+&nbsp;
 <a href="https://medium.com/@weerathit.s" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="52px" /></a>
 &nbsp;
 <a href="https://instagram.com/beater.27" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="49px" /></a>
