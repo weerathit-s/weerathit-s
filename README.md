@@ -2,8 +2,7 @@
 -	🧑‍🔬 My name is Weerathit Sanghirun and you can call me Wee. 
 -	📚 I'm currently studying for a master's degree. My study program is on Sunday so I can start working immediately.
 -	💞 I enjoy learning something new whenever I can because I think it makes life more interesting.
-- 🍀 I hope I have a chance to collaborate with you in the future.
-- ⬇️ To know more about me, you can also visit my LinkedIn, DataCamp, Medium and Instagram.
+- 🍀 I hope I have a chance to collaborate with you in the future..
 #
 
 ### 🧰 Tools
@@ -39,9 +38,6 @@
 <a href="https://app.datacamp.com/profile/weerathits" ><img align="top" src="https://www.svgrepo.com/show/349332/datacamp.svg" width="49px" /></a>
 &nbsp;
 <a href="https://medium.com/@weerathit.s" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="52px" /></a>
-&nbsp;
-<a href="https://instagram.com/beater.27" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="49px" /></a>
-
 #
 
 <div style="display: flex; flex-direction: row;">
