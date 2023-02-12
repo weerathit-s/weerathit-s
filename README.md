@@ -1,6 +1,5 @@
 ### 👋 Hi there!
 -	🧑‍🔬 My name is Weerathit Sanghirun and you can call me Wee. 
--	📚 I'm currently studying for a master's degree. My study program is on Sunday so I can start working immediately.
 -	💞 I enjoy learning something new whenever I can because I think it makes life more interesting.
 - 🍀 I hope I have a chance to collaborate with you in the future.
 #
