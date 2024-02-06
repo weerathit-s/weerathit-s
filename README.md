@@ -15,17 +15,8 @@
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
-#### Web Development:
-- ![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)
-- ![My Skills](https://skillicons.dev/icons?i=react,html,css)
-
 #### Database Mangement:
 - ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
-
-#### Business Inteligence and Data Visualization:
-- <a><img align="bottom" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" width="47px" /></a>
-&nbsp;
-<a><img src="https://img.icons8.com/color/344/tableau-software.png" width="44x" /></a>
 
 #### Interest:
 - ![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)
