@@ -24,15 +24,10 @@
 
 ### 👇 Visit Me
 <a href="https://www.linkedin.com/in/weerathit-s/" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="49px" /></a>
-&nbsp;
-<a href="https://app.datacamp.com/profile/weerathits" ><img align="top" src="https://www.svgrepo.com/show/349332/datacamp.svg" width="49px" /></a>
-&nbsp;
-<a href="https://medium.com/@weerathit.s" ><img align="top" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="52px" /></a>
 #
 
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://streak-stats.demolab.com/?user=weerathit-s&ring=FFA500&theme=jolly" width="400px" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=weerathit-s&title_color=FFA500&show_icons=true&theme=jolly" width="400px" />
 </div>
 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weerathit-s&theme=jolly&layout=compact" width="400px" />
